@@ -1,0 +1,1 @@
+export const userNotFound = 'User was not found!';
